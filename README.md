@@ -1,5 +1,5 @@
 # 🌐 Layout Basic - HTML & CSS
-![layout](layout_Mastery_new-1.png)
+![layout](layout_Mastery_new.png)
 ## 📝 Giới thiệu
 Dự án xây dựng giao diện tĩnh sử dụng **HTML** và **CSS cơ bản**, nhằm rèn luyện kỹ năng bố cục với kỹ thuật **float layout**.
 
